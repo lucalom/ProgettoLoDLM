@@ -1,0 +1,14 @@
+django
+facepy
+python-dotenv
+social-auth-app-django
+django-sslserver
+SPARQLWrapper
+django-crispy-forms
+numpy
+gensim
+scikit-learn
+matplotlib
+pandas
+nltk
+jsonpickle
